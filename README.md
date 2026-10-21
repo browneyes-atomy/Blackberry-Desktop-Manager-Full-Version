@@ -258,4 +258,4 @@ This repository serves as the official landing page for BlackBerry Desktop Manag
 **Get the most recent version of BlackBerry Desktop Manager today!**
 
 ---
-**Last updated:** 2026-10-21 19:11:44 UTC
+**Last updated:** 2026-10-21 23:04:25 UTC
